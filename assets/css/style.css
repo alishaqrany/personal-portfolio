@@ -211,7 +211,7 @@ h6 {
 }
 
 .navbar li+li {
-  margin-right: 30px;
+  margin-left: 30px;
 }
 
 .navbar a,
@@ -1184,6 +1184,6 @@ section .container {
   color: #fff;
 }
 
-body {
+/* body {
   direction: rtl;
-}
+} */
